@@ -28,8 +28,14 @@ SECRET_KEY = os.getenv('DJANGO_SECRET_KEY', 'fallback-secret-key')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["nhlanhh.id.vn", "www.nhlanhh.id.vn", "localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["mail.nhlanhh.id.vn", "nhlanhh.id.vn", "www.nhlanhh.id.vn", "localhost", "127.0.0.1"]
 
+CSRF_TRUSTED_ORIGINS = [
+    "https://nhlanhh.id.vn",
+    "https://www.nhlanhh.id.vn",
+    "http://localhost:8000",
+    "http://127.0.0.1:8000",
+]
 
 # Application definition
 
