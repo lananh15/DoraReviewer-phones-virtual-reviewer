@@ -1854,6 +1854,41 @@
           "Độ sáng tối đa 6500 nits - Kính cường lực Corning Gorilla Glass 7i"
         ]
       }
+    },
+    {
+      "canonical_name": "OPPO Reno15 5G",
+      "slug": "oppo-reno15-5g",
+      "category": "Oppo",
+      "general": {
+        "model": "OPPO Reno15 5G",
+        "link": "https://cellphones.com.vn/dien-thoai-oppo-reno15.html",
+        "price": "16.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1768889325/oppo-reno15-5g-9_lfnivt.webp"
+      },
+      "hardware": {
+        "chipset": "Qualcomm Snapdragon 7 Gen4 5G",
+        "cpu": "8 nhân",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "6500 mAh",
+        "sim": "Dual nano-SIM hoặc 1 nano-SIM + 1 eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "ColorOS 16.0"
+      },
+      "camera": {
+        "rear": "Chính 50MP f/1.8 (OIS) + Telephoto 50MP f/2.8 (OIS) + Góc siêu rộng 8MP f/2.2",
+        "front": "50MP f/2.0"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.59 inches",
+        "resolution": "1256 x 2760 pixels",
+        "features": [
+          "Cảm ứng 240Hz, 100% DCI-P3, 10-bit (1.07 tỷ màu), Độ sáng tối đa 1200 nits"
+        ]
+      }
     }
   ]
 }

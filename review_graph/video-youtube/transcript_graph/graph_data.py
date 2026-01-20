@@ -123,7 +123,10 @@ def create_manufacturer_data(tx, product):
 
 	# Create a Product node if it doesn’t exist, or attach to it if it already exists
 	tx.run("""
-		MERGE (p:Product {name: $canonical_name, slug: $slug, category: $category})
+		MERGE (p:Product {name: $canonical_name})
+		SET
+			p.slug = $slug,
+			p.category = $category
 		MERGE (src:Source {name: "Manufacturer"})
 		MERGE (src)-[:INCLUDES]->(p)
 	""", {"canonical_name": canonical_name, "slug": slug, "category": product.get("category")})

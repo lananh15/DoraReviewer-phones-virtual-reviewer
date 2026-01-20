@@ -1,5 +1,59 @@
 {
   "products": {
+    "OPPO Reno15 5G": [
+      {
+        "video_id": "-a6T93KVaZk",
+        "video_url": "https://www.youtube.com/watch?v=-a6T93KVaZk",
+        "video_title": "ĐÁNH GIÁ OPPO RENO 15 SAU 1 TUẦN: LIỆU CÓ TIẾP TỤC LẬP KỶ LỤC DOANH SỐ???",
+        "video_author": "Ngô Đức Duy",
+        "upload_date": "2026-01-19",
+        "features": [
+          "Thiết kế mặt lưng mượt sao băng",
+          "Khả năng chống nước IP69",
+          "Màn hình AMOLED độ phân giải cao",
+          "Camera trước góc siêu rộng 50MP",
+          "Camera chính 50MP",
+          "Hỗ trợ chụp hình xóa phông",
+          "Chạy hệ điều hành Android",
+          "Chip Snapdragon 7 x4",
+          "8GB RAM",
+          "Pin 6500 mAh"
+        ],
+        "pros": [
+          "Thiết kế nổi bật, phù hợp với giới trẻ",
+          "Màn hình lớn, chất lượng hiển thị tốt",
+          "Camera trước góc rộng tốt cho selfie",
+          "Chất lượng hình ảnh sắc nét, màu sắc trung thực",
+          "Khả năng chống nước cao",
+          "Hiệu năng ổn định cho các tác vụ hàng ngày và chơi game",
+          "Dung lượng pin lớn cho phép sử dụng cả ngày"
+        ],
+        "cons": [
+          "Độ sáng màn hình tối đa không quá cao, khó sử dụng dưới ánh sáng mạnh",
+          "Tốc độ ra mắy mới quá nhanh, khiến người dùng cảm thấy sản phẩm cũ nhanh lỗi thời"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp với giới trẻ, những người thích thiết kế nổi bật và chụp ảnh selfie. Cũng thích hợp cho những ai cần một thiết bị Android với hiệu năng ổn định và khả năng chống nước tốt.",
+        "type": "main"
+      }
+    ],
+    "Oppo Reno14 5G": [
+      {
+        "video_id": "-a6T93KVaZk",
+        "video_url": "https://www.youtube.com/watch?v=-a6T93KVaZk",
+        "video_title": "ĐÁNH GIÁ OPPO RENO 15 SAU 1 TUẦN: LIỆU CÓ TIẾP TỤC LẬP KỶ LỤC DOANH SỐ???",
+        "video_author": "Ngô Đức Duy",
+        "upload_date": "2026-01-19",
+        "features": [
+          "Mặt lưng đuôi cá đa sắc"
+        ],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ],
     "iPhone 14 Plus": [
       {
         "video_id": "-B7OpGd5AvA",
